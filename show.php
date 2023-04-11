@@ -49,7 +49,7 @@ include('connection.php');
             <td><a href="delete.php?id=<?php echo $row['id']; ?>  "class="btn btn-danger">Delete</a></td>
           </tr>
     <?php
-// modifier lien boutton
+
         }
     ?>
       </thead>
